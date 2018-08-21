@@ -1,0 +1,13 @@
+number api callsd : 0
+number functions : 2
+number line lables : 0
+number symbols : 5
+number instruction : 8
+Instr: Mov
+Instr: Mov
+Instr: PUSH
+Instr: PUSH
+Instr: CALL
+Instr: Add
+Instr: Mov
+Instr: RET
